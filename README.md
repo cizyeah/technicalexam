@@ -13,6 +13,6 @@
    ```sh
    pytest <testfile>
    ```
-  and press enter
+   and press enter
 
 4. Wait for the test to finish
